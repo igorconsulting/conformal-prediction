@@ -6,7 +6,9 @@ dist/
 wheels/
 *.egg-info
 *.lock
+.TODO
 notebooks/
+src/notebooks/
 
 # Virtual environments
 .venv
